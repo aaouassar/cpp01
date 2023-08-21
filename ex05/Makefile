@@ -1,8 +1,8 @@
-NAME = Sed
+NAME = Harl
 
 GCC := c++ -Werror -Wextra -Wall  -std=c++98 
 
-SRC := main.cpp sed.cpp
+SRC := main.cpp Harl.cpp
 
 all : $(NAME)
 

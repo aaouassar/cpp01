@@ -1,6 +1,6 @@
 NAME = Weapon
 
-GCC := clang++ -Werror -Wextra -Wall  -std=c++98 
+GCC := c++ -Werror -Wextra -Wall  -std=c++98 
 
 SRC := Weapon.cpp main.cpp HumanA.cpp HumanB.cpp
 

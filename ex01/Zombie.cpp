@@ -1,9 +1,7 @@
 #include "Zombie.hpp"
 
-// Zombie::Zombie(std::string name, int N)
+// Zombie::Zombie()
 // {
-//     this->name = name;
-//     this->N = N;
 //     std::cout << "Constructor called" << std::endl;
 // }
 // Zombie::~Zombie()
